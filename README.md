@@ -33,4 +33,7 @@ Further analysis of the election show that:
     - Denver, who received 82.8% of the vote and 306,055 number of votes.
 
 ## Election Audit Summary
-This script can be used 
+The script written to audit this data was successful and will be useful in automating the auditing process of other congressional district, senatorial district and local elections. We can do this by editing a few parts of the code:
+1.	We would need to update the file with the election data which we will need to analyze .
+2.	We would also need to update the text file where the new election data will be stored.
+<img src="Resources/script_edit.png" width="500">
